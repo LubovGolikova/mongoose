@@ -1,2 +1,0 @@
-# mongoose
-Created with CodeSandbox
